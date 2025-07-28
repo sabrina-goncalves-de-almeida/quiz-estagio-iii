@@ -1,27 +1,27 @@
 import styles from "./Questions.module.css";
 
-function Questions(){
+function Questions({answers}){
     return(
         <>
             <div className={styles.questionsContainer}>
                 <div className={styles.question}>
-                    a) 
+                    a) {answers[0].text} 
                 </div>
 
                 <div className={styles.question}>
-                   b)  
+                   b) {answers[1].text}  
                 </div>
 
                 <div className={styles.question}>
-                   c)  
+                   c) {answers[2].text}
                 </div>
 
                 <div className={styles.question}>
-                   d)  
+                   d) {answers[3].text}
                 </div>
 
                 <div className={styles.question}>
-                   e)  
+                   e) {answers[4].text}
                 </div>
             </div>
         </>

@@ -1,0 +1,26 @@
+[{"texto": "texto"},
+    {
+        "question01": [{
+            "textQuestion": "(Enem 2022) Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda. Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+            "answers": [{
+                "a": [{"answer": "2", "isCorrect": false}],
+                "b": [{"answer": "3", "isCorrect": false}],
+                "c": [{"answer": "6", "isCorrect": false}],
+                "d": [{"answer": "12", "isCorrect": false}],
+                "e": [{"answer": "24", "isCorrect": true}]
+            }]
+        }]
+    },
+    {
+        "question02": [{
+            "textQuestion": "",
+            "answers": [{
+                "a": [{"answer": "", "isCorrect": false}],
+                "b": [{"answer": "", "isCorrect": false}],
+                "c": [{"answer": "", "isCorrect": false}],
+                "d": [{"answer": "", "isCorrect": false}],
+                "e": [{"answer": "", "isCorrect": true}]
+            }]
+        }]
+    }
+]

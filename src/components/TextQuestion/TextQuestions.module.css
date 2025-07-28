@@ -2,12 +2,10 @@
     background-color: #FFFFFF;
     border-radius: 10px;
     margin: 20px;
-    padding: 10px;
-    height: 50%;
 }
 
 .textBox{
-    font-size: 24px;
+    font-size: 20px;
     text-align: justify;
     padding: 10px;
 }
